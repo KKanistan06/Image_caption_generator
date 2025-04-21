@@ -11,21 +11,13 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Group Details](#group-details)
 - [About the Dataset](#about-the-dataset)
 - [Installation](#installation)
 - [Bug / Feature Request](#bug--feature-request)
 - [Future Scope](#future-scope)
 
-## Demo
 
-- Link: https://imgcaptiongen.streamlit.app/
-
-`Note:` If the website link provided above is not working, it might mean that the deployment has been stopped or there are technical issues. We apologize for any inconvenience.
-
-- Please consider giving a ⭐ to the repository if you find this app useful.
-- A quick preview of the **Image Caption Generator** app:
-
-![Caption Generator Demo](resource/demo.gif)
 
 ## Overview
 
@@ -41,6 +33,10 @@ The key components of the project include:
 - Model training and evaluation
 - Streamlit app for interactive caption generation
 
+## Group details
+- KANISTAN K. - 2021E064
+- POGITHA P. - 2021E112
+  
 ## About the Dataset
 
 The [Flickr8k dataset](https://www.kaggle.com/adityajn105/flickr8k) is used for training and evaluating the image captioning system. It consists of 8,091 images, each with five captions describing the content of the image. The dataset provides a diverse set of images with multiple captions per image, making it suitable for training caption generation models.
